@@ -54,11 +54,11 @@
  - Windows
  
  
-## 💬  Ask me about anything! I'm always willing to help 🤗
-## How to reach me 📡
+## 💬 Ask me about anything! I'm always willing to help 🤗
+  How to reach me 📡
 
- - <img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />   https://www.linkedin.com/in/jaivalpatel/
- - <img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />  [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
+  - img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />   https://www.linkedin.com/in/jaivalpatel/
+  - img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />  [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
 
 
 
