@@ -5,7 +5,7 @@
 
 ## I’m currently working on 🔭
  - Complex Data Structures 🔬 
- - writing a math book based on my proofs of several theorems book 📚 
+ - Publishing my math book based on my proofs of several theorems book (stay tuned next week!) 📚 
 
 ## I’m currently learning 🧐
  - CS 101 (Aka Computer Science!)
