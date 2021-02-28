@@ -68,4 +68,4 @@
 
 ## GitHub Stats 📊
 
-<img align="left" alt="Jaival's GitHub Stats" src="https://github-readme-stats-nine-weld.vercel.app/api?username=GEEGABYTE1&show_icons=true&theme=dracula&title_colour=FFFFFF&bg_colorDEG,FF6D4C,FF8065,FFA08B,FF9E88,FFB9A9,FEC9BD,FFDBD3,FFE5E5,FFECE7,FFFFFF" />
+<img align="left" alt="Jaival's GitHub Stats" src="https://github-readme-stats-nine-weld.vercel.app/api?username=GEEGABYTE1&show_icons=true&theme=dracula&title_colour=FFFFFF" />
