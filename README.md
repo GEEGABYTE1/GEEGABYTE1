@@ -1,6 +1,6 @@
 ### Bonjour, I'm Jaival 👋
 
-### I am a junior highschool python developer! I am always studying and testing out computer science concepts😃
+### I am a junior highschool python developer! I am always studying and testing out computer science concepts 😃
 ### You could even say I'm an enthusiast 🤪
 
 ## I’m currently working on 🔭
@@ -15,7 +15,7 @@
  - CS 101 (Aka Computer Science!)
 
 ## I’m currently looking to collaborate on 
- - Computer Science Models 👫 🔮
+ - Algorithm Models 👫 🔮
 
 ## Passions 💕
  - Mathematics 🔢
