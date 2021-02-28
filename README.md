@@ -3,9 +3,6 @@
 ### I am a junior highschool python developer! I am always learning and always coding 😃
 ### You could even say I'm an enthusiast 🤪
 
-<!--
-**GEEGABYTE1/GEEGABYTE1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on Complex Data Structures 🔬
 - 🌱 I’m currently learning CS 101 (Aka Computer Science!)
 - 👫 I’m looking to collaborate on Machine Learning Projects 🔮
