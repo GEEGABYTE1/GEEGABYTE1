@@ -47,20 +47,20 @@
  - Making new friends! 👫
 
 ## Skills 📝 
- - Python
- - Arduino
- - Photoshop
- - OS
- - Windows
+ - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/python.svg" /> Python
+ - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/arduino.svg" /> Arduino
+ - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" /> Photoshop
+ - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/apple.svg" /> OS
+ - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/windows.svg" /> Windows
  
  
 ## 💬 Ask me about anything! I'm always willing to help 🤗
-  How to reach me 📡
+  *How to reach me* 📡
 
-  - img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />   https://www.linkedin.com/in/jaivalpatel/
-  - img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />  [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
-
-
+  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />   https://www.linkedin.com/in/jaivalpatel/
+  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />  [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
 
 
+## GitHub Stats 📊
 
+<img align="left" alt="Jaival's GitHub Stats" src="https://github-readme-stats-nine-weld.vercel.app/api?username=GEEGABYTE1&show_icons=true&hide_border=true" />
