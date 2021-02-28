@@ -56,6 +56,7 @@
  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/adobephotoshop.svg" /> Photoshop
  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/apple.svg" /> OS
  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/windows.svg" /> Windows
+ - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/visualstudiocode.svg" /> VS Code
  
  
 ## 💬 Ask me about anything! I'm always willing to help 🤗
