@@ -56,9 +56,9 @@
  
 ## 💬 Ask me about anything! I'm always willing to help 🤗
   *How to reach me* 📡
-
-  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />   https://www.linkedin.com/in/jaivalpatel/
-  - <img height="25" width="25" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />  [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
+   
+  - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaivalpatel/)
+  - [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jaivalpatelll/)
 
 
 ## GitHub Stats 📊
