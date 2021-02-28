@@ -14,7 +14,7 @@ Passions 💕
  - Coding 📟
  - Cricket 🏏 
  - Cars 🚗 
- - F1 🏎   (Let's go Mercedes 🥳)
+ - F1 🏎  (Let's go Mercedes 🥳)
  - Cosmos 🚀
  - Soccer ⚽️
 
