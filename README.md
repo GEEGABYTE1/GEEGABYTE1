@@ -37,6 +37,10 @@ Favourite Video Games 🎮
 
 Favourite Quote 🌁
  - "An equation means nothing to me unless it expresses a thought of God" - Srinavasa Ramanujan
+
+2021 Goal(s) 🎯 
+ - Commit more of my time on coding 
+ - Making new friends!
  
 
 
