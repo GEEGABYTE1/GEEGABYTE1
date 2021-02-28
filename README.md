@@ -56,8 +56,9 @@
  
 ## 💬  Ask me about anything! I'm always willing to help 🤗
 ## How to reach me 📡
- - LinkedIn: https://www.linkedin.com/in/jaivalpatel/
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/Instagram.svg" /> Instagram: [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
+
+ - <img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />   https://www.linkedin.com/in/jaivalpatel/
+ - <img height="30" width="30" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" />  [@jaivalpatelll](https://www.instagram.com/jaivalpatelll/)
 
 
 
