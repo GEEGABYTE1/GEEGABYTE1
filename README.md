@@ -6,6 +6,10 @@
 ## I’m currently working on 🔭
  - Complex Data Structures 🔬 
  - Publishing my math book based on my proofs of several theorems book (stay tuned next week!) 📚 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 
 ## I’m currently learning 🧐
  - CS 101 (Aka Computer Science!)
