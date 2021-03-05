@@ -13,7 +13,6 @@
 
 ## I’m currently learning 🧐
  - CS 101 (Aka Computer Science!)
- - Blockchain Coding 
 
 ## I’m currently looking to collaborate on 
  - Algorithm Models 👫 🔮
