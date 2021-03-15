@@ -5,8 +5,7 @@
 
 ## I’m currently working on 🔭
  - Complex Data Structures 🔬 
- - Publishing my math book based on my proofs of several theorems book (stay tuned this week!) 📚 
- - CryptoCurrency Simulation 📡
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
