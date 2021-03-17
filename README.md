@@ -1,7 +1,8 @@
 ### Bonjour, I'm Jaival 👋
 
-### I am a junior highschool python developer! I am always studying and testing out computer science concepts 😃
+### I am a junior highschool python developer! I am always studying and testing out computer science and machine learning concepts 😃
 ### You could even say I'm an enthusiast 🤪
+### BTW, I also love making projects including different fields, such as medical science, space exploration, and more ‼️😁
 
 ## I’m currently working on 🔭
  - Complex Data Structures 🔬 
