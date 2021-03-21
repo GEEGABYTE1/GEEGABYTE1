@@ -67,7 +67,15 @@
   - [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jaivalpatelll/)
 
 
+
+## Proof that Most of My Work Comes From Python 🐍
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEGABYTE1&layout=compact)](https://github.com/GEEGABYTE1/github-readme-stats)
+---------
+[![Jaival's wakatime stats *Just added*](https://github-readme-stats.vercel.app/api/wakatime?username=GEEGABYTE1)](https://github.com/GEEGABYTE1/github-readme-stats)
+
 ## GitHub Stats 📊
 
-<img align="left" alt="Jaival's GitHub Stats" src="https://github-readme-stats-nine-weld.vercel.app/api?username=GEEGABYTE1&show_icons=true&theme=dracula&title_colour=FFFFFF" />
+<img align="left" alt="Jaival's GitHub Stats" src="https://github-readme-stats-nine-weld.vercel.app/api?
+username=GEEGABYTE1&show_icons=true&theme=dracula&title_colour=FFFFFF" />
+
 
