@@ -70,12 +70,10 @@
 
 ## Proof that Most of My Work Comes From Python 🐍
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEGABYTE1&layout=compact)](https://github.com/GEEGABYTE1/github-readme-stats)
----------
-[![Jaival's wakatime stats *Just added*](https://github-readme-stats.vercel.app/api/wakatime?username=GEEGABYTE1)](https://github.com/GEEGABYTE1/github-readme-stats)
+
 
 ## GitHub Stats 📊
 
-<img align="left" alt="Jaival's GitHub Stats" src="https://github-readme-stats-nine-weld.vercel.app/api?
-username=GEEGABYTE1&show_icons=true&theme=dracula&title_colour=FFFFFF" />
+![Jaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEEGABYTE1&count_private=true&theme=radical)
 
 
