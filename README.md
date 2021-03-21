@@ -70,8 +70,7 @@
 
 ## Proof that Most of My Work Comes From Python 🐍
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEGABYTE1&layout=compact)](https://github.com/GEEGABYTE1/github-readme-stats)
-
-
+----
 ## GitHub Stats 📊
 
 ![Jaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEEGABYTE1&count_private=true&theme=radical)
