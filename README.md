@@ -69,7 +69,7 @@
 
 
 ## Proof that Most of My Work Comes From Python 🐍
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEGABYTE1&layout=compact)](https://github.com/GEEGABYTE1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEGABYTE1&layout=compact)](https://github.com/GEEGABYTE1/github-readme-stats) 
 ----
 
 ## GitHub Stats 📊
