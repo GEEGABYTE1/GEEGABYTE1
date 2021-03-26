@@ -71,7 +71,6 @@
 ## Proof that Most of My Work Comes From Python 🐍
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEEGABYTE1&layout=compact)](https://github.com/GEEGABYTE1/github-readme-stats)
 ----
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GEEGABYTE1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## GitHub Stats 📊
 
