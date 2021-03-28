@@ -14,6 +14,7 @@
 
 ## I’m currently learning 🧐
  - CS 101 (Aka Computer Science!)
+ - CS 102 (Data strucutres and algorithms)
 
 ## I’m currently looking to collaborate on 
  - Algorithm Models 👫 🔮
