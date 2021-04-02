@@ -5,7 +5,7 @@
 ### BTW, I also love making projects including different fields, such as medical science, space exploration, and more ‼️😁
 
 ## I’m currently working on 🔭
- - Complex Data Structures 🔬 
+ - Search and Sort Algorithms 🔬 
 
 <!--START_SECTION:activity-->
 
@@ -13,8 +13,7 @@
 
 
 ## I’m currently learning 🧐
- - CS 101 (Aka Computer Science!)
- - CS 102 (Data strucutres and algorithms)
+ - Search and Sort Algorithms
 
 ## I’m currently looking to collaborate on 
  - Algorithm Models 👫 🔮
