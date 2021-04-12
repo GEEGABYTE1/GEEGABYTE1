@@ -1,6 +1,6 @@
 ### Bonjour, I'm Jaival 👋
 
-### I am a junior highschool python developer! I am always studying and testing out computer science and machine learning concepts 😃
+### I am a junior highschool python developer! I am always studying and testing out computer science and machine learning concepts and blog all my work for others to see and learn as well 😃
 ### You could even say I'm an enthusiast 🤪
 ### BTW, I also love making projects including different fields, such as medical science, space exploration, and more ‼️😁
 
@@ -66,6 +66,9 @@
   - [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jaivalpatel/)
   - [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/jaivalpatelll/)
 
+## The link to my articles 📖
+  - [<img height="50" width="55" src="https://simpleicons.org/icons/medium.svg" />] : https://pateljaival05.medium.com/
+
 
 
 ## Proof that Most of My Work Comes From Python 🐍
@@ -75,5 +78,7 @@
 ## GitHub Stats 📊
 
 ![Jaival's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEEGABYTE1&count_private=true&theme=radical)
+
+
 
 
