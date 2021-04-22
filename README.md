@@ -33,12 +33,6 @@
  - Potatoes 🥔 
  - Curry 🍛 
  - Soup (any type works!) 🍲 
- 
-
-## Favourite songs 🎶
- - Let You Down by N.F
- - Mine by Bazzi 
- - Tyler Herro by Jack Harlow
 
 ## Favourite Video Games 🎮 
  - Super Smash Bros 🥊 
