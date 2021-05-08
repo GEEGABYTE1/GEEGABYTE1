@@ -27,20 +27,6 @@
  - Cosmos 🚀
  - Soccer ⚽️
 
-## Favourite foods (fruits and vegetables included as well) 😋
- - Tacos 🌮 
- - Mangoes 🥭 
- - Potatoes 🥔 
- - Curry 🍛 
- - Soup (any type works!) 🍲 
-
-## Favourite Video Games 🎮 
- - Super Smash Bros 🥊 
- - Fifa ⚽️ 
-
-## Favourite Quote 🌁
- - "*An equation means nothing to me unless it expresses a thought of God*" - Srinavasa Ramanujan
-
 ## 2021 Goal(s) 🎯 
  - Commit more of my time towards coding 💻
  - Making new friends! 👫
