@@ -5,15 +5,15 @@
 ### BTW, I also love making projects including different fields, such as medical science, space exploration, and more ‼️😁
 
 ## I’m currently working on 🔭
- - Sorting Algorithms 🔁 
-
+ - Search Algorithm Projects 🕵🏻
+ - CS-102 Reference Application 👾
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
 
 
 ## I’m currently learning 🧐
- - Search and Sort Algorithms
+ - Sort Algorithms
 
 ## I’m currently looking to collaborate on 
  - Algorithm Models 👫 🔮
