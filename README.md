@@ -1,4 +1,3 @@
-# Hey There, I'm Jaival 👋🏼
 
 ![Hey There, I'm Jaival blogger  Programmer  innovator](https://user-images.githubusercontent.com/68164588/117744242-48f3ff80-b1d6-11eb-9bbf-79be2c35bc1e.png)
 
