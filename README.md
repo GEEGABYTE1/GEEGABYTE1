@@ -8,10 +8,11 @@ I mostly code in Python, but in the future, I will be learning new languages, as
 
 When I'm not coding, I like to read, play and watch soccer, and talk to my friends! In the future, my goal is to build a tech-startup as I can combine both my passion for innovation, and programming together 📈
 
-*Website Coming Soon*
+
 
 # Socials 
 
+- Personal Website: https://geegabyte1.github.io/JaivalPatel/
 - Instagram: https://www.instagram.com/jaivalpatelll/
 - LinkedIn: https://www.linkedin.com/in/jaivalpatel/
 - Medium.com: https://pateljaival05.medium.com/
