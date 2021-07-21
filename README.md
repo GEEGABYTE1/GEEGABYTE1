@@ -12,7 +12,7 @@ When I'm not coding, I like to read, play and watch soccer, and talk to my frien
 
 # Socials 
 
-- Personal Website: https://geegabyte1.github.io/JaivalPatel/
+- Personal Website: https://geegabyte1.github.io/jaivalpatel/
 - Instagram: https://www.instagram.com/jaivalpatelll/
 - LinkedIn: https://www.linkedin.com/in/jaivalpatel/
 - Medium.com: https://pateljaival05.medium.com/
