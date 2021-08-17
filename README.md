@@ -13,7 +13,7 @@
 
 I am a highschool developer based in Toronto, Canada who is highly passionate about creating things that are both out of this world, and impactful to everyone in their daily lives. Day by day, I create simulations, machine learning models, and algorithms based on different problems from different subjects ranging from health care, the web, our social lives, and etc 💡
 
-I mostly code in Python, but in the future, I will be learning new languages, as well as algorithms, computer science concepts, and new machine learning models and ways to automate different tasks to make our lives much easier to live 🚶🏻 (I also love to solve Competitive Coding Problems 🧠)
+I mostly code in Python, but in the future, I will be learning new languages, as well as algorithms, computer science concepts, and new machine learning models and ways to automate different tasks to make our lives much easier to live🚶🏻 (I also love to solve Competitive Coding Problems 🧠)
 
 When I'm not coding, I like to read, play and watch soccer, and talk to my friends! In the future, my goal is to build a tech-startup as I can combine both my passion for innovation, and programming together 📈
 
