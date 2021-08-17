@@ -2,7 +2,7 @@
 <p><img src="https://github.com/GEEGABYTE1/GEEGABYTE1/blob/main/1.png" alt="Jaival Patel">
   <p align="center">
 <a href="https://www.linkedin.com/in/jaivalpatel/"><img src="https://img.shields.io/badge/-Jaival Patel-510aed?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jaivalpatel/" alt="Linkedin"></a>
-<a href="https://geegabyte1.github.io/jaivalpatel/"><img src="https://img.shields.io/badge/-~jaivalpatel-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://geegabyte1.github.io/jaivalpatel/" alt="Website"></a>
+<a href="https://geegabyte1.github.io/jaivalpatel/"><img src="https://img.shields.io/badge/-:/jaivalpatel-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://geegabyte1.github.io/jaivalpatel/" alt="Website"></a>
 <a href="https://www.instagram.com/jaivalpatelll/"><img src="https://img.shields.io/badge/-jaivalpatell-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/jaivalpatelll/" alt="Instagram"></a>
 <a href="https://pateljaival05.medium.com/"><img src="https://img.shields.io/badge/-pateljaival05-75caff?style=for-the-badge&amp;logo=Medium&amp;logoColor=black&amp;link=https://pateljaival05.medium.com/" alt="Medium"></a>
 <a href="https://www.hackerrank.com/jpcan4"><img src="https://img.shields.io/badge/-jpcan4-026ced?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white&amp;link=https://www.hackerrank.com/jpcan4" alt="HackerRank"></a>
