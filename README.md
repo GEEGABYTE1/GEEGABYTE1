@@ -1,5 +1,5 @@
 
-<p><img src="https://github.com/GEEGABYTE1/GEEGABYTE1/blob/main/Jaival%20Patel%20README%20Header.png" alt="Jaival Patel">
+<p><img src="https://github.com/GEEGABYTE1/GEEGABYTE1/blob/main/1.png" alt="Jaival Patel">
   <p align="center">
 <a href="https://www.linkedin.com/in/jaivalpatel/"><img src="https://img.shields.io/badge/-Jaival Patel-510aed?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jaivalpatel/" alt="Linkedin"></a>
 <a href="https://geegabyte1.github.io/jaivalpatel/"><img src="https://img.shields.io/badge/-~jaivalpatel-ff66ce?style=for-the-badge&amp;logoColor=white&amp;link=https://geegabyte1.github.io/jaivalpatel/" alt="Website"></a>
