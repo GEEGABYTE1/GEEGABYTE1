@@ -17,6 +17,8 @@ I mostly code in Python and Go, but in the future, I will be learning new langua
 
 When I'm not coding, I like to read, play and watch soccer, and talk to my friends! In the future, my goal is to build a tech-startup as I can combine both my passion for innovation, and programming together 📈
 
+If you would like to view my projects, please don't hesistate to contact me as we can work something out!
+
 <p align="center">
 
 <a href="https://github.com/GEEGABYTE1/GEEGABYTE1">
