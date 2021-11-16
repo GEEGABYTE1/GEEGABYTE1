@@ -10,8 +10,7 @@
 
 
 
-
-I am a highschool blockchain developer based in Toronto, Canada who is highly passionate about creating things that are both out of this world, and impactful to everyone in their daily lives. Day by day, I create algorithms, languages, cryptocurrencies, and random other fun stuff to explore the world programming. 💡
+I am a highschool blockchain developer based in Toronto, Canada who is highly passionate about creating things that are both out of this world, and impactful to everyone in their daily lives. Day by day, I create algorithms, languages, cryptocurrencies, decentralized applications, and random other fun stuff to explore the world programming. 💡
 
 I mostly code in Python and Go, but in the future, I will be learning new languages, as well as algorithms, and computer science concepts to create better applications and processes through decentralization.🚶🏻 (I also love to solve Competitive Coding Problems 🧠)
 
