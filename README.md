@@ -10,11 +10,11 @@
 
 
 
-I am a highschool blockchain developer based in Toronto, Canada who is highly passionate about creating things that are both out of this world, and impactful to everyone in their daily lives. Day by day, I create algorithms, languages, cryptocurrencies, decentralized applications, and random other fun stuff to explore the world programming. 💡
+I am a highschool blockchain developer based in Toronto, Canada who is highly passionate about creating things that are both out of this world, and impactful to everyone in their daily lives. Day by day, I create algorithms, languages, cryptocurrencies, Defi applications, DAOs, Network Protocols, and random other fun stuff to explore the world programming. 💡
 
-I mostly code in Python and Go, but in the future, I will be learning new languages, as well as algorithms, and computer science concepts to create better applications and processes through decentralization.🚶🏻 (I also love rockets and their propeller systems along with the accuracy of SpaceX 🚀)
+I mostly code in Python and Go, but in the future, I will be learning new languages, as well as algorithms, and computer science concepts to create better applications and processes through decentralization and web3.🚶🏻 (I also love rockets and their propeller systems along with the accuracy of SpaceX 🚀)
 
-When I'm not coding, I like to read, play and watch soccer, and talk to my friends! In the future, my goal is to build a tech-startup as I can combine both my passion for innovation, and programming together 📈
+When I'm not coding, I like to read (specifically academic texts), play and watch soccer, and solve Rubik's Cube! In the future, my goal is to build a web3-startup as I can combine both my passion for innovation, programming, and math together 📈
 
 If you would like to view my projects, please don't hesistate to contact me as we can work something out!
 
