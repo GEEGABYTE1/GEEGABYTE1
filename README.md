@@ -23,7 +23,7 @@
 
 > Hibiscus Tea is the Fuel for my Creativity 👍
 
-[[site](https://www.jaivalpatel.com/)]
+[[Portfolio](https://www.jaivalpatel.com/)]
 *Site not up to date yet*
 
 
