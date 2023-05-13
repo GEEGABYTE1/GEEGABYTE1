@@ -21,7 +21,7 @@
                                                       |#######|
 ```
 
-> Hibiscus Tea is the Fuel for my Creativity 👍
+> Hibiscus Tea Fuels my Creativity 👍
 
 [[Portfolio](https://www.jaivalpatel.com/)]
 *Site not up to date yet*
