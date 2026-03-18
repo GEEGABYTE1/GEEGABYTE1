@@ -1,35 +1,21 @@
-```
-                                                    .------.____
-                                                 .-'       \ ___)
-                                              .-'         \\\
-                                           .-'        ___  \\)
-                                        .-'          /  (\  |)
-                                                 __  \  ( | |
-                                                /  \  \__'| |
-                                               /    \____).-'
-                                             .'       /   |
-                                            /     .  /    |                                                           
-                                          .'     / \/     |
-                                         /      /   \     |
-                                               /    /    _|_
-                                               \   /    /\ /\
-                                                \ /    /__v__\
-                                                 '    |       |
-                                                      |     .#|
-                                                      |#.  .##|
-                                                      |#######|
-                                                      |#######|
-```
+hi I'm Jaival Patel. 
 
-> Hibiscus Tea Fuels my brain 👍
+studying engineering science (ece with a minor in robotics) at uoft.
 
-[[Portfolio](https://www.jaivalpatel.com/)]
+my interests currently lie in autonomous space systems and neural rehab systems.
 
-> Most of my future and significant work can be found on my portfolio, but if you want more information feel free to reach out (socials on my portfolio website!)
+currently: 
+ - robotics and mission operations intern at MDA Space
+ - neural interface research at kite under Prof. Zariffa
+ - comp. neuro research in cortical circuits at coNSens under Dr. Nieimier 
+ - electrical lead at Neurotechuoft
+
+previously: 
+ - software lead at UTAT rocketry
+ - flight system intern at Lunr
+ - author of Beauty of Mathematics
 
 
 
-
-
-
+view more: www.jaivalpatel.com
 
