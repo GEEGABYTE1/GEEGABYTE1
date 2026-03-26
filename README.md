@@ -2,7 +2,7 @@ hi I'm Jaival Patel.
 
 studying engineering science (ece with a minor in robotics) at uoft.
 
-my interests currently lie in autonomous space systems and neural rehab systems.
+i write code for space systems and rockets.
 
 currently: 
  - robotics and mission operations intern at MDA Space
